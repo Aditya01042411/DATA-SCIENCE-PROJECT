@@ -1,0 +1,21 @@
+Store_ID,Store_Type,Region,Opening_Year
+S01,Online,East,2018
+S02,Neighborhood Market,West,2017
+S03,Online,West,2009
+S04,Online,Central,2010
+S05,Online,Central,2014
+S06,Online,South,2014
+S07,Superstore,South,2019
+S08,Neighborhood Market,North,2011
+S09,Superstore,Central,2012
+S10,Superstore,East,2012
+S11,Neighborhood Market,Central,2013
+S12,Neighborhood Market,East,2021
+S13,Superstore,West,2016
+S14,Neighborhood Market,Central,2009
+S15,Online,West,2012
+S16,Neighborhood Market,South,2019
+S17,Neighborhood Market,South,2010
+S18,Online,North,2011
+S19,Online,Central,2017
+S20,Neighborhood Market,West,2013
