@@ -1,0 +1,21 @@
+Route_ID,Source_City,Source_Country,Destination_City,Destination_Country,Distance_KM,Avg_Transit_Time_Hours
+R001,Memphis,USA,Frankfurt,Germany,4620,32.1
+R002,Dubai,UAE,Shanghai,China,7264,18.5
+R003,Singapore,Singapore,Hong Kong,China,885,23.5
+R004,Paris,France,Toronto,Canada,8555,49.1
+R005,London,UK,Los Angeles,USA,10023,23.3
+R006,Frankfurt,Germany,Chicago,USA,2364,23.3
+R007,Shanghai,China,Sydney,Australia,5297,30.5
+R008,Hong Kong,China,Tokyo,Japan,1846,17.1
+R009,Toronto,Canada,Seoul,South Korea,5582,15.5
+R010,Los Angeles,USA,Amsterdam,Netherlands,6268,11.6
+R011,Chicago,USA,Brussels,Belgium,7369,15.5
+R012,Sydney,Australia,Madrid,Spain,11397,42.3
+R013,Tokyo,Japan,Sao Paulo,Brazil,3794,31.3
+R014,Seoul,South Korea,Johannesburg,South Africa,5394,27.3
+R015,Amsterdam,Netherlands,Istanbul,Turkey,606,11.5
+R016,Brussels,Belgium,Mumbai,India,8018,31.2
+R017,Madrid,Spain,Mexico City,Mexico,6651,45.1
+R018,Sao Paulo,Brazil,Memphis,USA,9347,43
+R019,Johannesburg,South Africa,Dubai,UAE,7255,13.3
+R020,Istanbul,Turkey,Singapore,Singapore,2513,17.2

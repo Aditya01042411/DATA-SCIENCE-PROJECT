@@ -1,0 +1,11 @@
+Warehouse_ID,City,Country,Capacity_per_day,Manager_Name
+W001,Memphis,USA,3000,Manager_A
+W002,Singapore,Singapore,1500,Manager_B
+W003,London,UK,3000,Manager_C
+W004,Shanghai,China,1500,Manager_D
+W005,Toronto,Canada,1000,Manager_E
+W006,Chicago,USA,2500,Manager_F
+W007,Tokyo,Japan,2500,Manager_G
+W008,Amsterdam,Netherlands,2500,Manager_H
+W009,Madrid,Spain,3000,Manager_I
+W010,Johannesburg,South Africa,1000,Manager_J

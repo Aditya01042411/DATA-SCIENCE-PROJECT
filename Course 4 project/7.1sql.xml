@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Source_Country</Data></Cell>
+			<Cell><Data ss:Type="String">avg_delivery_delay_hours</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">UAE</Data></Cell>
+			<Cell><Data ss:Type="Number">41.04</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Turkey</Data></Cell>
+			<Cell><Data ss:Type="Number">32.8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">China</Data></Cell>
+			<Cell><Data ss:Type="Number">32.53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Singapore</Data></Cell>
+			<Cell><Data ss:Type="Number">32.18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UK</Data></Cell>
+			<Cell><Data ss:Type="Number">29.86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="Number">25.88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Brazil</Data></Cell>
+			<Cell><Data ss:Type="Number">25.83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South Korea</Data></Cell>
+			<Cell><Data ss:Type="Number">20.97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="Number">19.27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="Number">16.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="Number">15.19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Belgium</Data></Cell>
+			<Cell><Data ss:Type="Number">14.89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="Number">14.01</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">South Africa</Data></Cell>
+			<Cell><Data ss:Type="Number">13.91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Australia</Data></Cell>
+			<Cell><Data ss:Type="Number">13.89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="Number">11.95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Canada</Data></Cell>
+			<Cell><Data ss:Type="Number">9.72</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
